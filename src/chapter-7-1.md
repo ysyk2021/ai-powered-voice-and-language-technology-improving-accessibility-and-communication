@@ -1,5 +1,4 @@
-Overview of AI Applications for Augmentative and Alternative Communication in Voice and Language Technology
-=====================================================================================================================================================================================
+
 
 AI-powered augmentative and alternative communication (AAC) technology has the potential to improve accessibility and communication for individuals with communication disabilities. In this chapter, we provide an overview of AI applications for AAC in voice and language technology.
 

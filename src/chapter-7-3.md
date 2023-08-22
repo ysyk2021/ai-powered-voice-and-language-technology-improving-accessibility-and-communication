@@ -1,5 +1,4 @@
-Case Studies of Successful AI Implementations in Augmentative and Alternative Communication
-=====================================================================================================================================================================
+
 
 AI-powered augmentative and alternative communication (AAC) technology has shown great potential in improving accessibility and communication for individuals with communication disabilities. In this chapter, we explore case studies of successful AI implementations in AAC.
 

@@ -1,5 +1,4 @@
-Overview of AI Applications for Multimodal Communication in Voice and Language Technology
-===========================================================================================================================================
+
 
 Multimodal communication, which involves the integration of different forms of communication, such as voice, text, and visual cues, offers significant opportunities to improve accessibility and communication. In this chapter, we provide an overview of AI applications for multimodal communication in voice and language technology.
 

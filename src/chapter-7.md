@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Augmentative and Alternative Communication (AAC)
-========================================================================
+
 
 Augmentative and alternative communication (AAC) technology has the potential to improve accessibility and communication for individuals with communication disabilities. In this chapter, we explore the role of AI in augmentative and alternative communication.
 

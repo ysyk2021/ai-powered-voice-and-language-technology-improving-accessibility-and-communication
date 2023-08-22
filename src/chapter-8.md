@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Multimodal Communication
-================================================
+
 
 Multimodal communication, which involves the integration of different forms of communication such as voice, text, and visual cues, offers significant opportunities to improve accessibility and communication. In this chapter, we explore the use of AI for multimodal communication in voice and language technology.
 

@@ -1,5 +1,4 @@
-Case Studies of Successful AI Implementations in Multimodal Communication
-===========================================================================================================================
+
 
 AI-powered multimodal communication technology has shown great potential in improving accessibility and communication for individuals with diverse needs. In this chapter, we explore case studies of successful AI implementations in multimodal communication.
 
