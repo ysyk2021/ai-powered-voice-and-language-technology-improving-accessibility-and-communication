@@ -1,5 +1,4 @@
 
-
 Choosing the right AI tools and technologies is crucial for the successful implementation of voice and language technology. In this chapter, we provide an overview of AI tools and technologies for voice and language technology.
 
 Speech Recognition

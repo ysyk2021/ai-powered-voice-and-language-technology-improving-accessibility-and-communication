@@ -1,5 +1,4 @@
 
-
 Natural language processing and understanding is a key application of AI in voice and language technology. In this chapter, we explore the applications of AI for natural language processing and understanding, best practices for implementation, and case studies of successful AI implementations.
 
 Overview of AI Applications for Natural Language Processing and Understanding in Voice and Language Technology

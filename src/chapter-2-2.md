@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a key component of voice and language technology, enabling machines to understand and generate spoken or written language. In this chapter, we'll explore the different types of AI used for voice and language technology.
 
 Natural Language Processing (NLP)

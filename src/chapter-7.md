@@ -1,5 +1,4 @@
 
-
 Augmentative and alternative communication (AAC) technology has the potential to improve accessibility and communication for individuals with communication disabilities. In this chapter, we explore the role of AI in augmentative and alternative communication.
 
 Overview of AI Applications for Augmentative and Alternative Communication in Voice and Language Technology

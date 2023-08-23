@@ -1,5 +1,4 @@
 
-
 Preparing for AI implementation in voice and language technology involves assessing your communication needs and goals. In this chapter, we explore the importance of assessing communication needs and goals and provide guidance on how to do so.
 
 The Importance of Assessing Communication Needs and Goals

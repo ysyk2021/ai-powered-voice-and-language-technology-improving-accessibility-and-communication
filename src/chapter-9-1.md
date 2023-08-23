@@ -1,5 +1,4 @@
 
-
 Assessing the effectiveness of AI for voice and language technology is essential in ensuring that communication systems are effective, efficient, and inclusive. In this chapter, we explore best practices for assessing the effectiveness of AI for voice and language technology.
 
 Defining Key Performance Indicators (KPIs)

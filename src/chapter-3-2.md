@@ -1,5 +1,4 @@
 
-
 Preparing for AI implementation in voice and language technology requires careful evaluation of data availability and quality. In this chapter, we explore the importance of data in AI implementation and provide guidance on evaluating data availability and quality.
 
 The Importance of Data in AI Implementation
