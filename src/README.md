@@ -10,3 +10,7 @@ Throughout the book, we'll emphasize the importance of ethical considerations wh
 In short, "AI-Powered Voice and Language Technology" is a comprehensive guidebook for anyone interested in using machine learning to improve accessibility and communication. Whether you're a business owner looking to improve customer service or an individual seeking better communication strategies, this book will provide you with the knowledge and tools you need to thrive in the rapidly evolving world of AI-powered communication.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
